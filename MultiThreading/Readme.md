@@ -37,4 +37,9 @@ This code demonstrates the utilization of multithreading for matrix multiplicati
 As we can see, the graph first decreases and then increases, showing the variation of number of threads to the time taken for matrix multiplication.
 
 CPU USAGE during THREAD 1:
+
+
+![image](https://github.com/B7aot/-Predictive-Analysis/assets/150000274/ee64c7cf-3717-4a60-80b8-be2fb1333a68)
+
+![image](https://github.com/B7aot/-Predictive-Analysis/assets/150000274/653f7256-419a-4079-b2c1-7822257551fe)
  
